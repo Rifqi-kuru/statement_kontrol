@@ -14,5 +14,6 @@ if ($max > $bil3) {
 else {
     $maxSemua = $bil3;
 }
-echo "Nilai terbesar dari ketiga bilangna adalah ".$maxSemua;
+echo "Nilai terbesar dari ketiga bilangan adalah ".$maxSemua;
+
 ?>
